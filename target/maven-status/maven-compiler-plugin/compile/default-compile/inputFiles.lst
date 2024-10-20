@@ -1,0 +1,9 @@
+/Users/uk/Documents/GameOfLife/src/main/java/com.chargepoint.gameOfLife/config/SwaggerConfig.java
+/Users/uk/Documents/GameOfLife/src/main/java/com.chargepoint.gameOfLife/model/Cell.java
+/Users/uk/Documents/GameOfLife/src/main/java/com.chargepoint.gameOfLife/GameOfLifeApplication.java
+/Users/uk/Documents/GameOfLife/src/main/java/com.chargepoint.gameOfLife/exception/CustomExceptionHandler.java
+/Users/uk/Documents/GameOfLife/src/main/java/com.chargepoint.gameOfLife/service/GameService.java
+/Users/uk/Documents/GameOfLife/src/main/java/com.chargepoint.gameOfLife/exception/GameNotFoundException.java
+/Users/uk/Documents/GameOfLife/src/main/java/com.chargepoint.gameOfLife/model/GameGrid.java
+/Users/uk/Documents/GameOfLife/src/main/java/com.chargepoint.gameOfLife/repository/GameRepository.java
+/Users/uk/Documents/GameOfLife/src/main/java/com.chargepoint.gameOfLife/controller/GameOfLifeController.java
